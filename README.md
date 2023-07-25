@@ -58,5 +58,5 @@ gaitober" => "gato"
 ---
 
 ### Autor:
-- Ing. Menrry Santana La Cruz <br>
+- Ingeniero. Menrry Santana La Cruz <br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Menrry/) [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Menrry/) [![Linkedin](https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/menrrysantana/)
